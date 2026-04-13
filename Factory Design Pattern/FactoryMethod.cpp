@@ -1,3 +1,8 @@
+/*
+    Factory Method - Defines an interface for creating objects but
+    allows subclasses to decide which class to instantiate
+*/
+
 #include<iostream>
 
 using namespace std;
